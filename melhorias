@@ -1,0 +1,5 @@
+1 - Transformar class em function
+2 - Usar id em vez de class no querySelector
+3 - Usar nomes melhores
+4 - Separar em funções: createInput, createitemBox, createRemoveButton, createEditButton, edit e remove
+ 
